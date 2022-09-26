@@ -1,5 +1,17 @@
 # <Profile Webpage Development>
 
+## Deployed Site 
+
+[Deployed Site Here](URL insert here)
+
+## Screenshot
+
+![Image Here](Insert Screenshot URL from image)
+
+![Image Here](Insert Screenshot URL from image)
+
+![Image Here](Insert Screenshot URL from image)
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
