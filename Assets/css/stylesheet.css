@@ -60,10 +60,11 @@ justify-content: space-around;}
     display: flex;
 }
 
-header,
-footer{ display: inline;
+header{ display: inline;
 
 }
+
+footer{text-align: center;}
 
 /*For mobile devices*/
 @media only screen and (max-width: 768px){
