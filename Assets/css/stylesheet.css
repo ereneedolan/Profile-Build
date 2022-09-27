@@ -4,7 +4,7 @@
 }
 
 ul{
-    color: antiquewhite;
+    color: darkblue;
 }
 
 #top-image {
@@ -23,7 +23,7 @@ article{
 }
 
 body {
-    background-color: aqua;
+    background-color: white;
     font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
 }
 
@@ -61,7 +61,7 @@ justify-content: space-around;}
 }
 
 header{ display: inline;
-
+background-color: rgb(7, 7, 61);
 }
 
 footer{text-align: center;}
