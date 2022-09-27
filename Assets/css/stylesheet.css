@@ -3,7 +3,9 @@
     font-family: 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif ;
 }
 
-ul{}
+ul{
+    color: antiquewhite;
+}
 
 image{
     display: flexbox;}
@@ -15,6 +17,6 @@ body {
 
 
 header,
-footer{ inl
+footer{ display: inline;
 
 }
