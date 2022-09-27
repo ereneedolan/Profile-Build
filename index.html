@@ -9,100 +9,118 @@
 
     <title>Eileen Dolan's Portfolio Page</title>
 </head>
+ <body>
 
-
-<nav>
-    <ul>
-    
-    <li>About Me
+<nav id="navbar">
+    <header>Eileen Dolan's Portfolio</header>
+    <ul id="navlist">
+    <li>
         <a 
         href="#About Me">About Me</a>
     </li>
-    <li>Work
+    <li>
         <a 
         href="#Work">Work</a>
     </li>
     <li>
-            Contact Me
         <a 
-        href="#Contact Me">Contact Me</a>
+        href="#Contact-Me">Contact-Me</a>
     </li> 
-     <li>GitHub Repository  
+     <li>  
         <a 
-        href=""></a>
+        href="Github-Repository"></a>
     </li>    
         
     </ul>  
 </nav>  
-<header>Eileen Dolan's Portfolio</header>
 <figure>
-<img src="https://images.pexels.com/photos/7806502/pexels-photo-7806502.jpeg?cs=srgb&dl=pexels-mark-neal-7806502.jpg&fm=jpg" alt="Picture of desert sand">   
-<figcaption>Image by</figcaption>
+<img id="top-image" src="https://images.pexels.com/photos/7806502/pexels-photo-7806502.jpeg?cs=srgb&dl=pexels-mark-neal-7806502.jpg&fm=jpg" alt="Picture of desert sand">   
+<figcaption>Image by Mark Neal</figcaption>
 </figure>
 
-/*The section below is the main part*/
-<body>
-    <section id="About Me" class="About Me">
+<!-- The section below is the main part -->
+
+<main>
+    <section id="About-Me" class="main-section">
         <header>About Me</header>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        <p id="aboutme-p">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             Voluptatibus quod reprehenderit sed id dolor, labore quia quasi 
             nihil facilis asperiores blanditiis quibusdam nesciunt magni doloremque 
             repudiandae autem illo voluptas exercitationem!</p>
 
     </section>
 
-    <section id="Work" class="Work">
+    <section id="Work" class="main-section">
         <header>Work</header>
+        <div id="work-section">
+            <div id="row-1">
         <article>
             <h1>Project 1: HTML</h1>
             <figure>
             <img src="https://images.pexels.com/photos/13297062/pexels-photo-13297062.jpeg?cs=srgb&dl=pexels-aleksandra-s-13297062.jpg&fm=jpg" alt="Photo of gondolas on the Venice Canal">
         </figure>
-        <figcaption>Image by:</figcaption>
+        <figcaption>Image by Aleksandra A:</figcaption>
         </article>
+    </div>
+    <div id="row-2">
         <article>
-            <h1>Project 2:CSS</h1> 
+            <h1>Project 2: CSS</h1> 
             <img src="https://images.pexels.com/photos/12562955/pexels-photo-12562955.jpeg?cs=srgb&dl=pexels-tina-simakova-12562955.jpg&fm=jpg" alt="A picture of tall cacti in the desert">
-            <figcaption>Image by</figcaption>
+            <figcaption>Image by Tina Simakova</figcaption>
         </article>
+
         <article> 
             <h1>Project 3: Javascript</h1>
             <figure>
             <img src="https://images.pexels.com/photos/13619967/pexels-photo-13619967.jpeg?cs=srgb&dl=pexels-matt-hardy-13619967.jpg&fm=jpg" alt="Photo of Green mossy cliffs">
             </figure> 
-            <figcaption>Image by:</figcaption>
+            <figcaption>Image by Matt Hardy:</figcaption>
         </article>
+    </div>
+<div id="row-3">
         <article>
             <h1>Project 4: WebAPIs</h1> 
         <figure>
             <img src="https://images.pexels.com/photos/13547192/pexels-photo-13547192.jpeg?cs=srgb&dl=pexels-maria-loznevaya-13547192.jpg&fm=jpg" alt="Photo of a sailboat off the coast seen through foliage">
         </figure>
-            <figcaption>Image by:</figcaption>
+            <figcaption>Image by Maria Loznevaya:</figcaption>
         </article>
         <article>
             <h1>Project 5: MERN</h1> 
             <figure>
             <img src="https://images.pexels.com/photos/13629371/pexels-photo-13629371.jpeg?cs=srgb&dl=pexels-feyza-y%C4%B1ld%C4%B1r%C4%B1m-13629371.jpg&fm=jpg" alt="Photo of pears in a bowl"> 
         </figure>
-            <figcaption>Image by:</figcaption>
+            <figcaption>Image by Feyza Yildirim:</figcaption>
         </article>
-
+    </div>
+        </div>
     </section>
     
-</body>
+</main>
 
-<footer>
-    <section id="Contact Me" class="Contact Me"
+    <section id="Contact-Me" class="main-section">
+        <header>Contact Me</header>
+    <nav>
         <ul>
-            <li>Email <input type="email" name="" id=""></li>
-            <li>Linkedin<input type=""
+            <li>
+                Email: <a href="mailto:eileenrdolan@gmail.com">eileenrdolan@gmail.com</a>
             </li>
-            <li>GitHub<input type=""
+            <li>
+                Linkedin: <a href=""> Eileen Dolan</a>
             </li>
-            <li>Twitter<input type=""
+            <li>
+                GitHub <a href=""></a>
+            </li>
+            <li>
+                Twitter <a href=""></a>
             </li>
         </ul>
+    </nav>    
 </section>
-    </footer>
 
+<footer>
+<p>Made by Eileen Renee Dolan</p>
+</footer>
+ 
+</body>
 </html>
