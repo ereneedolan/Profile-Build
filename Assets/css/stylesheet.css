@@ -3,6 +3,11 @@
     font-family: 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif ;
 }
 
+header{ 
+    display: inline;
+background-color: rgb(7, 7, 61);
+}
+
 ul{
     color: darkblue;
 }
@@ -60,9 +65,8 @@ justify-content: space-around;}
     display: flex;
 }
 
-header{ display: inline;
-background-color: rgb(7, 7, 61);
-}
+#navfooter{
+    display: inline;}
 
 footer{text-align: center;}
 
