@@ -12,9 +12,17 @@ image{
 width: 300px;
 height: 300px;}
 
+
+article{
+    width: 300px;
+}
+
 body {
     background-color: aqua;
     font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
+#Work{
+    
 }
 
 
