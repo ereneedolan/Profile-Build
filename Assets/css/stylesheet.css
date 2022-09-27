@@ -30,3 +30,15 @@ header,
 footer{ display: inline;
 
 }
+
+/*For mobile devices*/
+@media only screen and (max-width: 768px)
+
+/* tablet styles  */
+@media screen and (width: 650px) {
+    
+}
+
+/* For desktop  */
+
+@media screen and (width: 1100px) {}
