@@ -8,7 +8,7 @@
 
 ![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Screenshot%201%20Project%20homework%202.png)
 
-![Image Here](Insert Screenshot URL from image)
+![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Screenshot%202%20Project%20homework%202.png)
 
 ![Image Here](Insert Screenshot URL from image)
 
