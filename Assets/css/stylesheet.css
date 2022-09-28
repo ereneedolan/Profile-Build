@@ -59,7 +59,11 @@ background-color: rgb(7, 7, 61);
 
 .main-section{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+}
+
+#project-1-image{
+    size: larger;
 }
 
 #main-section-header{
@@ -67,7 +71,7 @@ background-color: rgb(7, 7, 61);
 font-size: 100;
 background-color: rgb(7, 7, 61);
     color: antiquewhite;
-padding: 50px;
+padding: 20px;
 }
 
 #work-section{
@@ -96,10 +100,16 @@ div{
     display: flex;
 }
 
+figcaption{
+    width: 100%;
+    size: 0, 90px;
+}
+
 em{
     font-size: smaller;
     background-color: rgb(7, 7, 61);
     color: antiquewhite;
+    
 }
 
 #navfooter{
@@ -126,6 +136,6 @@ footer{
 }
 
 /* For desktop  */
-@media screen and (width: 1100px) {
+@media screen and (width: 1024px) {
 
 }
