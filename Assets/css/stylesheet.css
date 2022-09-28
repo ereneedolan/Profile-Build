@@ -16,6 +16,7 @@ height: 300px;}
 
 article{
     width: 300px;
+    padding: 10%;
 }
 
 body {
@@ -27,6 +28,7 @@ body {
     justify-content: space-between;
     background-color: rgb(7, 7, 61);
     color: antiquewhite;
+    padding: 30px;
 }
 
 #navlist{display: flex;
@@ -52,6 +54,11 @@ color: darkblue;}
     flex-direction: column;
 }
 
+#work{
+    background-color: rgb(7, 7, 61);
+    color: antiquewhite;
+}
+
 #row-1{
     display: flex;
 }
@@ -62,6 +69,10 @@ color: darkblue;}
 
 #row-3{
     display: flex;
+}
+
+em{
+    font-size: smaller;
 }
 
 #navfooter{
