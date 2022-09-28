@@ -3,6 +3,10 @@
     font-family: 'Lucida Sans Unicode', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', sans-serif ;
 }
 
+#navbarheader{
+    font-size: 150%;
+}
+
 #top-image {
     width: 100%;
     height: 300px;
@@ -69,8 +73,12 @@ background-color: rgb(7, 7, 61);
     justify-content: space-around;
 }
 
+article{
+    padding: 20px;
+}
+
 #project-1-image{
-    width: 300%;
+    width: 315%;
 }
 
 #main-section-header{
@@ -84,11 +92,13 @@ padding: 20px;
 #work-section{
     display: flex;
     flex-direction: column;
+    padding: 20px;
 }
 
 #work{
     background-color: rgb(7, 7, 61);
     color: antiquewhite;
+    padding: 20px;
 }
 
 div{
