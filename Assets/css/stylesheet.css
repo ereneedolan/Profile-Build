@@ -5,11 +5,7 @@
 
 header{ 
     display: inline;
-background-color: rgb(7, 7, 61);
-}
-
-ul{
-    color: darkblue;
+;
 }
 
 #top-image {
@@ -34,12 +30,16 @@ body {
 
 #navbar{display: flex;
     justify-content: space-between;
-    
+    background-color: rgb(7, 7, 61);
+    color: antiquewhite;
 }
 
 #navlist{display: flex;
     width: 20%;
-justify-content: space-around;}
+justify-content: space-around;
+color: antiquewhite;
+background-color: rgb(7, 7, 61);
+}
 
 #aboutme-p {flex-basis: 50%;}
 
@@ -47,6 +47,10 @@ justify-content: space-around;}
     display: flex;
     justify-content: space-between;
 }
+
+#main-section-header{text-align: center;
+font-size: 40;
+color: darkblue;}
 
 #work-section{
     display: flex;
@@ -70,7 +74,11 @@ justify-content: space-around;}
     justify-content: space-between;
     }
 
-footer{text-align: center;}
+footer{
+    text-align: center;
+    background-color: rgb(7, 7, 61);
+    color: antiquewhite;
+}
 
 /*For mobile devices*/
 @media only screen and (max-width: 768px){
@@ -78,7 +86,7 @@ footer{text-align: center;}
 }
 
 /* tablet styles  */
-@media screen and (width: 650px) {
+@media screen and (width: 992px) {
     
 }
 
