@@ -21,10 +21,10 @@ height: 300px;}
     padding: 50px;
 }
 
-article{
+/*article{
     width: 300px;
     padding: 30px;
-}
+}*/
 /*
 article:hover {
     background-color: aquamarine;
@@ -70,7 +70,7 @@ background-color: rgb(7, 7, 61);
 }
 
 #project-1-image{
-    size: larger;
+    width: 300%;
 }
 
 #main-section-header{
@@ -119,6 +119,10 @@ em{
     
 }
 
+#Contact-Me{
+    padding: 2%;
+}
+
 #navfooter{
     display: flex;
     justify-content: space-between;
@@ -130,7 +134,7 @@ footer{
     text-align: center;
     background-color: rgb(7, 7, 61);
     color: antiquewhite;
-    padding: 6%;
+    padding: 2%;
 }
 
 /*For mobile devices*/
