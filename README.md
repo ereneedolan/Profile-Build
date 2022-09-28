@@ -10,7 +10,7 @@
 
 ![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Screenshot%202%20Project%20homework%202.png)
 
-![Image Here](Insert Screenshot URL from image)
+![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Screenshot%203%20project%20homework%202.png)
 
 ## Description
 
