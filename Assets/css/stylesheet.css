@@ -25,13 +25,15 @@ article{
     width: 300px;
     padding: 30%;
 }
-
+/*
 article:hover {
     background-color: aquamarine;
 }
+*/
 
 body {
-    background-color: white;
+    background-color: rgb(7, 7, 61);
+    color: antiquewhite;
     font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
 }
 
@@ -49,6 +51,10 @@ color: antiquewhite;
 background-color: rgb(7, 7, 61);
 }
 
+#main-body-section{
+    display: flex;
+}
+
 #aboutme-p {flex-basis: 75%;}
 
 .main-section{
@@ -59,7 +65,8 @@ background-color: rgb(7, 7, 61);
 #main-section-header{
     text-align: center;
 font-size: 100;
-color: antiquewhite;
+background-color: rgb(7, 7, 61);
+    color: antiquewhite;
 padding: 50px;
 }
 
@@ -71,6 +78,10 @@ padding: 50px;
 #work{
     background-color: rgb(7, 7, 61);
     color: antiquewhite;
+}
+
+div{
+    display: flex;
 }
 
 #row-1{
@@ -115,5 +126,6 @@ footer{
 }
 
 /* For desktop  */
+@media screen and (width: 1100px) {
 
-@media screen and (width: 1100px) {}
+}
