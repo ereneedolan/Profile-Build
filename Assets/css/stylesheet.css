@@ -51,6 +51,13 @@ color: antiquewhite;
 background-color: rgb(7, 7, 61);
 }
 
+#navlistbottom{
+/*    display: flex;*/
+color: antiquewhite;
+background-color: rgb(7, 7, 61);
+
+}
+
 #main-body-section{
     display: flex;
 }
@@ -123,6 +130,7 @@ footer{
     text-align: center;
     background-color: rgb(7, 7, 61);
     color: antiquewhite;
+    padding: 6%;
 }
 
 /*For mobile devices*/
