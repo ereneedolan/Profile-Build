@@ -89,7 +89,7 @@ article{
 
 #main-section-header{
     text-align: center;
-font-size: 100;
+font-size: 18pt;
 background-color: var(--darkblue);
     color: var(--white);
 padding: 20px;
@@ -132,7 +132,7 @@ em{
     font-size: smaller;
     background-color: var(--darkblue);
     color: var(--white);
-    
+    margin-left: 5px;
 }
 
 #Contact-Me{
