@@ -6,11 +6,11 @@
 
 ## Screenshot
 
-![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Screenshot%201%20Project%20homework%202.png)
+![Image Here](screenshot URL)
 
-![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Screenshot%202%20Project%20homework%202.png)
+![Image Here](screenshot URL)
 
-![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Screenshot%203%20project%20homework%202.png)
+![Image Here](screenshot URL)
 
 ## Description
 
@@ -24,7 +24,11 @@ N/A
 
 ## Installation
 
+N/A
+
 ## Usage
+
+N/A
 
 ## Credits
 
