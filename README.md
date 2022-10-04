@@ -18,6 +18,17 @@ I developed a profile page to showcase my development work and a way for employe
 
 I learned skills in building and style a webpage using HTML and CSS.
 
+## Table of Contents
+
+N/A
+
+## Installation
+
+## Usage
+
+## Credits
+
+I was the sole contributor to this project
 
 ## License
 
