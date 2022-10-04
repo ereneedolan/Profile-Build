@@ -6,11 +6,11 @@
 
 ## Screenshot
 
-![Image Here]()
+![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Profile%20Screenshot%201.png?raw=true)
 
-![Image Here](screenshot URL)
+![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Profile%20Screenshot%202.png)
 
-![Image Here](screenshot URL)
+![Image Here](https://github.com/ereneedolan/Profile-Build/blob/main/Images/Profile%20Screenshot%203.png)
 
 ## Description
 
