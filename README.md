@@ -14,9 +14,13 @@
 
 ## Description
 
-I developed a profile page to showcase my development work and a way for employers or others in the community to be able to contact me. I wanted a way that was more user friendly for non-developers to see my work than just having a github page. It gives an additional way to display my work while still having a link to my repository on github.
+I developed a profile page to showcase my development work and a way for employers and others in the community to be able to contact me. 
 
-I learned skills in building and style a webpage using HTML and CSS.
+I wanted a way that was more user friendly for non-developers to see my work than just having a github page. 
+
+The webpage gives an additional way to display my work with links to my deployed website projects in Project 1 and Project 3 while still having a link to my repository on github.
+
+I learned skills in building and styling a webpage using HTML and CSS. Important features executed included href URLs and img src's wrapped in <a> tags to use images to lead to external site and working on responsive CSS.
 
 ## Table of Contents
 
