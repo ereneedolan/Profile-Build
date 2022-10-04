@@ -20,6 +20,8 @@
     color: var(--white);
 }
 
+#profile-image {display: flex;}
+
 img{
     display: flexbox;
 width: 300px;
@@ -47,6 +49,10 @@ body {
     font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
 }
 
+#Project-3-Description{
+    overflow-wrap: break-word;
+}
+
 #navbar{display: flex;
     justify-content: space-between;
     background-color: var(--darkblue);
@@ -72,7 +78,9 @@ background-color: var(--darkblue);
     display: flex;
 }
 
-#aboutme-p {flex-basis: 75%;}
+#aboutme-p {flex-basis: 50%;
+    overflow-wrap: break-word;
+}
 
 .main-section{
     display: flex;
@@ -84,7 +92,7 @@ article{
 }
 
 #project-1-image{
-    width: 315%;
+    width: 200%;
 }
 
 #main-section-header{
