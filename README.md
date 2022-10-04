@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Image Here](screenshot URL)
+![Image Here]()
 
 ![Image Here](screenshot URL)
 
